@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📈 Sales & Demand Forecasting for Businesses
 
 This project builds a **Machine Learning sales forecasting system** using real retail transaction data.
@@ -211,3 +212,6 @@ B.Tech CSE – VIT-AP University
 
 GitHub:
 https://github.com/samarth0903
+=======
+# FUTURE_ML_01
+>>>>>>> 514c64ac702107089f5aad29e262f9a11a0d4508
